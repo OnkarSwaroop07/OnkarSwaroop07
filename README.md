@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Onkar Swaroop
+- 👀 I’m interested in Data Analytics and Data Science
+- 💞️ I’m looking to collaborate on Data Analytics projects
+- 📫 How to reach me -- through my email
+- ⚡ Fun fact: I love Data!!
